@@ -22,7 +22,7 @@
 
 <p align="center">
   <!-- 10 tech logos -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,express,python,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,express,python,github,git" />
 </p>
 
 ---
