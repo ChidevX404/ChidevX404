@@ -33,15 +33,15 @@
 
 <p align="center">
   <a href="https://www.facebook.com/chi4826" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="50" />
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/ichxqx_/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:chichithirawat.9697@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
