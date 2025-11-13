@@ -1,62 +1,20 @@
-<!-- HEADER -->
 <h1 align="center">👋 HI, I'M <span style="color:#00BFFF;">CHI</span></h1>
 <h3 align="center">💻 Web App Developer | 🎓 Computer Science Student</h3>
 
 ---
 
-<!-- PACMAN ANIMATION DECORATION -->
+<!-- PACMAN DECORATION -->
 <div align="center">
-  <style>
-    .pacman-wrapper {
-      position: relative;
-      width: 420px;
-      height: 100px;
-      margin: 20px auto;
-      overflow: hidden;
-      background-color: black;
-      border-radius: 8px;
-      box-shadow: 0 0 10px #00BFFF;
-    }
-    .pacman {
-      position: absolute;
-      left: -40px;
-      top: 35px;
-      width: 0;
-      height: 0;
-      border-top: 20px solid yellow;
-      border-right: 20px solid transparent;
-      border-bottom: 20px solid yellow;
-      border-left: 20px solid yellow;
-      border-radius: 50%;
-      animation: movePacman 4s linear infinite;
-    }
-    .dot {
-      position: absolute;
-      width: 8px;
-      height: 8px;
-      background: white;
-      border-radius: 50%;
-      top: 46px;
-      animation: moveDots 4s linear infinite;
-    }
-    @keyframes movePacman {
-      0% { left: -40px; transform: rotate(0deg); }
-      100% { left: 460px; transform: rotate(0deg); }
-    }
-    @keyframes moveDots {
-      0% { left: 460px; }
-      100% { left: -40px; }
-    }
-  </style>
-  <div class="pacman-wrapper">
-    <div class="pacman"></div>
-    <div class="dot" style="animation-delay:0s;"></div>
-    <div class="dot" style="animation-delay:0.4s;"></div>
-    <div class="dot" style="animation-delay:0.8s;"></div>
-    <div class="dot" style="animation-delay:1.2s;"></div>
-    <div class="dot" style="animation-delay:1.6s;"></div>
-    <div class="dot" style="animation-delay:2s;"></div>
-  </div>
+  <p>
+    <img src="https://raw.githubusercontent.com/Chi4826/Chi4826/main/assets/pacman.gif" alt="Pacman" width="40" />
+    <img src="https://raw.githubusercontent.com/Chi4826/Chi4826/main/assets/dot.gif" alt="dot" width="15" />
+    <img src="https://raw.githubusercontent.com/Chi4826/Chi4826/main/assets/dot.gif" alt="dot" width="15" />
+    <img src="https://raw.githubusercontent.com/Chi4826/Chi4826/main/assets/dot.gif" alt="dot" width="15" />
+    <img src="https://raw.githubusercontent.com/Chi4826/Chi4826/main/assets/dot.gif" alt="dot" width="15" />
+    <img src="https://raw.githubusercontent.com/Chi4826/Chi4826/main/assets/dot.gif" alt="dot" width="15" />
+    <img src="https://raw.githubusercontent.com/Chi4826/Chi4826/main/assets/ghost1.gif" alt="ghost" width="40" />
+    <img src="https://raw.githubusercontent.com/Chi4826/Chi4826/main/assets/ghost2.gif" alt="ghost" width="40" />
+  </p>
 </div>
 
 ---
