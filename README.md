@@ -3,31 +3,26 @@
 
 ---
 
-<!-- PACMAN DECORATION -->
+<!-- 🟡 PACMAN ANIMATION -->
 <div align="center">
-  <p>
-    <img src="https://raw.githubusercontent.com/Chi4826/Chi4826/main/assets/pacman.gif" alt="Pacman" width="40" />
-    <img src="https://raw.githubusercontent.com/Chi4826/Chi4826/main/assets/dot.gif" alt="dot" width="15" />
-    <img src="https://raw.githubusercontent.com/Chi4826/Chi4826/main/assets/dot.gif" alt="dot" width="15" />
-    <img src="https://raw.githubusercontent.com/Chi4826/Chi4826/main/assets/dot.gif" alt="dot" width="15" />
-    <img src="https://raw.githubusercontent.com/Chi4826/Chi4826/main/assets/dot.gif" alt="dot" width="15" />
-    <img src="https://raw.githubusercontent.com/Chi4826/Chi4826/main/assets/dot.gif" alt="dot" width="15" />
-    <img src="https://raw.githubusercontent.com/Chi4826/Chi4826/main/assets/ghost1.gif" alt="ghost" width="40" />
-    <img src="https://raw.githubusercontent.com/Chi4826/Chi4826/main/assets/ghost2.gif" alt="ghost" width="40" />
-  </p>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="80" alt="Pacman"/>
+  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="60" alt="Dot"/>
+  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="60" alt="Dot"/>
+  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="60" alt="Dot"/>
+  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="60" alt="Dot"/>
+  <img src="https://media.giphy.com/media/l1J9ur0dEMgZ8x3K0/giphy.gif" width="70" alt="Ghost"/>
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 *(Coming Soon... Stay Tuned!)*  
-🚀 I’m passionate about **web development**, **UI/UX**, and **creative coding**.  
-🌱 Always learning new technologies and improving every day.  
+🚀 Passionate about **Web Development**, **UI/UX**, and **Creative Coding**  
+🌱 Always learning new technologies every day!  
 
 ---
 
 ## ⚙️ Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,express,python,mysql,git" />
 </p>
