@@ -3,19 +3,9 @@
 
 ---
 
-<!-- OCEAN GIF BACKGROUND DECORATION -->
-<div align="center">
-  <img src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" width="100%" alt="Ocean waves"/>
-</div>
-
----
-
-<!-- 🟡 PACMAN ANIMATION -->
-<div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="70" alt="Pacman"/>
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="50" alt="Dot"/>
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="50" alt="Dot"/>
-  <img src="https://media.giphy.com/media/l1J9ur0dEMgZ8x3K0/giphy.gif" width="60" alt="Ghost"/>
+<!-- Pacman Animated GIF -->
+<div align="center" style="margin: 20px 0;">
+  <img src="https://www.c64-wiki.com/images/7/7c/PacMan_Animation1.gif" alt="Pacman Animation" width="100" />
 </div>
 
 ---
@@ -49,28 +39,15 @@ to help people use technology efficiently.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.facebook.com/chi4826" target="_blank">
+  <a href="https://www.facebook.com/chi4826" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/ichxqx_/" target="_blank">
+  <a href="https://www.instagram.com/ichxqx_/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:chichithirawat.9697@gmail.com" target="_blank">
+  <a href="mailto:chichithirawat.9697@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="180"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff"/>
-</div>
