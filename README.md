@@ -1,12 +1,11 @@
-<!-- HEADER -->
-<h1 align="center">🌊 Welcome to <span style="color:#00BFFF;">CHI Island</span> 🏝️</h1>
-<h3 align="center">👋 HI, I'M <span style="color:#FFD700;">CHI</span><br>💻 Web App Developer | 🎓 Computer Science Student</h3>
+<h1 align="center">👋 HI, I'M <span style="color:#00BFFF;">CHI</span></h1>
+<h3 align="center">💻 Web App Developer | 🎓 Computer Science Student</h3>
 
 ---
 
-<!-- OCEAN BACKGROUND DECORATION -->
+<!-- OCEAN GIF BACKGROUND DECORATION -->
 <div align="center">
-  <img src="https://i.imgur.com/Nr4OaJg.gif" width="100%" alt="Ocean waves">
+  <img src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" width="100%" alt="Ocean waves"/>
 </div>
 
 ---
@@ -21,25 +20,33 @@
 
 ---
 
-## 🧑‍💻 About Me  
+## 🧑‍💻 About Me
 
-🌅 I'm **Chi**, a passionate Web Developer and Computer Science student from Thailand.  
-🌊 I love building things that live on the internet — from small experiments to full-scale web apps.  
-💡 My goal is to make tech feel fun, human, and creative!  
-🎮 In my free time, I enjoy pixel art, retro games (yes, Pac-Man 👻), and coding while listening to lo-fi beats.  
-☕ Fun Fact: I code best when the weather feels like summer by the sea.  
+🎓 I am currently studying at **University of Phayao**,  
+Faculty of **Technology**, majoring in **Computer Science**, 2nd year.  
+
+💡 I am learning **Web Application Development**  
+and **Database System Design** to gain practical skills for real-world projects.  
+
+🧩 Currently, I am working on a project: a website for **photographing billboards and land plots**.  
+The system can **show the location of the site on a map**  
+and **display details and information about each property or billboard**,  
+combining creativity with practical functionality.  
+
+🎯 My career goal is to become an **Application Developer**  
+or a **Database Administrator**, building and managing high-quality systems  
+to help people use technology efficiently.  
 
 ---
 
-## ⚙️ Tech Stack  
-
+## ⚙️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,express,python,mysql,git,figma" />
 </p>
 
 ---
 
-## 🌐 My Digital Beach (Connect With Me)  
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.facebook.com/chi4826" target="_blank">
@@ -57,8 +64,6 @@
 
 ---
 
-## 📊 My GitHub Ocean Currents  
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="180"/>
@@ -67,5 +72,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thank%20You%20for%20visiting%20🌴&fontSize=20&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff"/>
 </div>
