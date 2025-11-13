@@ -1,36 +1,66 @@
+<!-- PROFILE HEADER -->
 <h1 align="center">👋 HI, I'M <span style="color:#00BFFF;">CHI</span></h1>
+<h3 align="center">💻 Web App Developer | 🎓 Computer Science Student</h3>
 
-<!-- Container ใส่ Pacman GIF + ข้อความแบบไล่สี RGB -->
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px; margin: 20px 0;">
+---
 
-  <!-- Pacman GIF -->
-  <div style="border: 3px solid; border-radius: 20px; padding: 8px; animation: rgbGlow 5s linear infinite;">
-    <img src="https://www.c64-wiki.com/images/8/89/PacMan_Animation1.gif" alt="Pacman" width="60" style="display: block;" />
-  </div>
-
-  <!-- ข้อความแบบกล่องไล่สี RGB + ฟอนต์สวย -->
-  <div style="
-    font-family: 'Trebuchet MS', Verdana, Tahoma, sans-serif;
-    font-weight: bold; 
-    font-size: 16px; 
-    padding: 12px 20px; 
-    border-radius: 20px; 
-    color: white;
-    animation: rgbGlow 5s linear infinite;
-    border: 3px solid;
-  ">
-    💻 Web App Developer | 🎓 Computer Science Student
-  </div>
-
+<!-- ANIMATED PACMAN -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/MotionArt/main/Pacman.gif" alt="pacman" width="200"/>
 </div>
 
-<!-- CSS animation แบบ inline ใน markdown -->
-<style>
-  @keyframes rgbGlow {
-    0% { border-color: rgb(255, 0, 0); background-color: rgba(255, 0, 0, 0.3); }
-    25% { border-color: rgb(0, 255, 0); background-color: rgba(0, 255, 0, 0.3); }
-    50% { border-color: rgb(0, 0, 255); background-color: rgba(0, 0, 255, 0.3); }
-    75% { border-color: rgb(255, 255, 0); background-color: rgba(255, 255, 0, 0.3); }
-    100% { border-color: rgb(255, 0, 0); background-color: rgba(255, 0, 0, 0.3); }
-  }
-</style>
+---
+
+## 🧑‍💻 About Me
+*(Coming Soon... Stay Tuned!)*  
+🚀 I’m passionate about **web development**, **UI/UX**, and **creative coding**.  
+🌱 Always learning new technologies and improving every day.  
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <!-- 10 tech logos -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,express,python,mysql,git" />
+</p>
+
+---
+
+## 🎮 Mini Game Zone
+> 🕹️ Pac-Man Simulation (Animated)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" alt="pacman moving" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.facebook.com/chi4826" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" width="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/ichxqx_/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:chichithirawat.9697@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</div>
