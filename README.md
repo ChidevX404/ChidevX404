@@ -12,9 +12,15 @@
 ---
 
 ## 🧑‍💻 About Me
-*(Coming Soon... Stay Tuned!)*  
-🚀 I’m passionate about **web development**, **UI/UX**, and **creative coding**.  
-🌱 Always learning new technologies and improving every day.  
+
+🎓 I am currently a **2nd-year Computer Science student** at the **Faculty of Technology, University of Phayao**.  
+
+💡 I am learning **web development, database management**, and other practical skills to enhance my knowledge.  
+
+🛠️ Current project: I am developing a **website for photographing billboards and land plots**.  
+The system shows **the location of each site on a map** and **provides detailed information about each property or billboard**.  
+
+🎯 My goal is to become an **Application Developer** or a **Database Administrator**, building and managing high-quality systems.
 
 ---
 
