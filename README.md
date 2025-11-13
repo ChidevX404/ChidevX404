@@ -1,12 +1,62 @@
-<!-- PROFILE HEADER -->
+<!-- HEADER -->
 <h1 align="center">👋 HI, I'M <span style="color:#00BFFF;">CHI</span></h1>
 <h3 align="center">💻 Web App Developer | 🎓 Computer Science Student</h3>
 
 ---
 
-<!-- ANIMATED PACMAN -->
+<!-- PACMAN ANIMATION DECORATION -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/MotionArt/main/Pacman.gif" alt="pacman" width="200"/>
+  <style>
+    .pacman-wrapper {
+      position: relative;
+      width: 420px;
+      height: 100px;
+      margin: 20px auto;
+      overflow: hidden;
+      background-color: black;
+      border-radius: 8px;
+      box-shadow: 0 0 10px #00BFFF;
+    }
+    .pacman {
+      position: absolute;
+      left: -40px;
+      top: 35px;
+      width: 0;
+      height: 0;
+      border-top: 20px solid yellow;
+      border-right: 20px solid transparent;
+      border-bottom: 20px solid yellow;
+      border-left: 20px solid yellow;
+      border-radius: 50%;
+      animation: movePacman 4s linear infinite;
+    }
+    .dot {
+      position: absolute;
+      width: 8px;
+      height: 8px;
+      background: white;
+      border-radius: 50%;
+      top: 46px;
+      animation: moveDots 4s linear infinite;
+    }
+    @keyframes movePacman {
+      0% { left: -40px; transform: rotate(0deg); }
+      100% { left: 460px; transform: rotate(0deg); }
+    }
+    @keyframes moveDots {
+      0% { left: 460px; }
+      100% { left: -40px; }
+    }
+  </style>
+  <div class="pacman-wrapper">
+    <div class="pacman"></div>
+    <div class="dot" style="animation-delay:0s;"></div>
+    <div class="dot" style="animation-delay:0.4s;"></div>
+    <div class="dot" style="animation-delay:0.8s;"></div>
+    <div class="dot" style="animation-delay:1.2s;"></div>
+    <div class="dot" style="animation-delay:1.6s;"></div>
+    <div class="dot" style="animation-delay:2s;"></div>
+  </div>
 </div>
 
 ---
@@ -21,17 +71,7 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <!-- 10 tech logos -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,express,python,github,git" />
-</p>
-
----
-
-## 🎮 Mini Game Zone
-> 🕹️ Pac-Man Simulation (Animated)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" alt="pacman moving" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,express,python,mysql,git" />
 </p>
 
 ---
