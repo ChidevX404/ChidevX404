@@ -3,9 +3,9 @@
 
 ---
 
-<!-- Pac‑Man Animated GIF -->
-<div align="center" style="margin: 20px 0;">
-  <img src="https://www.c64-wiki.com/images/8/89/PacMan_Animation1.gif" alt="Pac‑Man Animation" width="100" />
+<!-- Pac‑Man Animated GIF ขนาดใหญ่เต็มกรอบ -->
+<div align="center" style="margin: 20px 0; border: 2px solid #00BFFF; padding: 10px; border-radius: 12px; max-width: 340px;">
+  <img src="https://www.c64-wiki.com/images/8/89/PacMan_Animation1.gif" alt="Pac‑Man Animation" width="320" style="display: block; margin: 0 auto;" />
 </div>
 
 ---
