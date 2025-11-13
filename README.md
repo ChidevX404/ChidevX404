@@ -3,9 +3,9 @@
 
 ---
 
-<!-- Pacman Animated GIF -->
+<!-- Pac‑Man Animated GIF -->
 <div align="center" style="margin: 20px 0;">
-  <img src="https://www.c64-wiki.com/images/7/7c/PacMan_Animation1.gif" alt="Pacman Animation" width="100" />
+  <img src="https://www.c64-wiki.com/images/8/89/PacMan_Animation1.gif" alt="Pac‑Man Animation" width="100" />
 </div>
 
 ---
@@ -13,19 +13,19 @@
 ## 🧑‍💻 About Me
 
 🎓 I am currently studying at **University of Phayao**,  
-Faculty of **Technology**, majoring in **Computer Science**, 2nd year.  
+Faculty of **Technology**, majoring in **Computer Science**, 2nd year.
 
 💡 I am learning **Web Application Development**  
-and **Database System Design** to gain practical skills for real-world projects.  
+and **Database System Design** to gain practical skills for real‑world projects.
 
 🧩 Currently, I am working on a project: a website for **photographing billboards and land plots**.  
 The system can **show the location of the site on a map**  
 and **display details and information about each property or billboard**,  
-combining creativity with practical functionality.  
+combining creativity with practical functionality.
 
 🎯 My career goal is to become an **Application Developer**  
-or a **Database Administrator**, building and managing high-quality systems  
-to help people use technology efficiently.  
+or a **Database Administrator**, building and managing high‑quality systems  
+to help people use technology efficiently.
 
 ---
 
