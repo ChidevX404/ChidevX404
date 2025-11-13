@@ -45,28 +45,18 @@ The system shows **the location of each site on a map** and **provides detailed 
 ## 🤝 Connect With Me
 
 <p align="center">
+  <!-- Facebook -->
   <a href="https://www.facebook.com/chi4826" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="50" alt="Facebook" />
   </a>
   &nbsp;&nbsp;
+  <!-- Instagram -->
   <a href="https://www.instagram.com/ichxqx_/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="50" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
+  <!-- Gmail -->
   <a href="mailto:chichithirawat.9697@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="50" alt="Gmail" />
   </a>
 </p>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="180"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</div>
