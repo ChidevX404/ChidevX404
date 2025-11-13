@@ -27,7 +27,7 @@ The system shows **the location of each site on a map** and **provides detailed 
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,express,python,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,express,python,github,git" />
 </p>
 
 ---
