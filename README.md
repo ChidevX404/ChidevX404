@@ -27,18 +27,15 @@ The system shows **the location of each site on a map** and **provides detailed 
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <!-- 10 tech logos -->
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,express,python,mysql,git" />
 </p>
 
 ---
 
-## 🎮 Mini Game Zone
-> 🕹️ Pac-Man Simulation (Animated)
-
-<p align="center">
+<!-- Pacman GIF (แสดงเฉย ๆ) -->
+<div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" alt="pacman moving" />
-</p>
+</div>
 
 ---
 
@@ -60,3 +57,16 @@ The system shows **the location of each site on a map** and **provides detailed 
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="50" alt="Gmail" />
   </a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</div>
