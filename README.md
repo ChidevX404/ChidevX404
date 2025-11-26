@@ -70,3 +70,4 @@ The system shows **the location of each site on a map** and **provides detailed 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </div>
+ื
