@@ -1,4 +1,4 @@
-<!-- PROFILE HEADER -->   
+<!-- PROFILE HEADER -->  
 <h1 align="center">👋 HI, I'M <span style="color:#00BFFF;">CHI</span></h1>
 <h3 align="center">💻 Web App Developer | 🎓 Computer Science Student</h3>
 
