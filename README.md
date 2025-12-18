@@ -3,43 +3,39 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/bHmWgL6lpAfd3QlnT0/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/bHmWgL6lpAfd3QlnT0/giphy.gif" width="180" style="border: 4px solid #FF69B4; border-radius: 15px;"/>
   <h2 align="center" style="color: #FF69B4;">💗 "If you love something, you should say so!" 💗</h2>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ichxqx&label=PROFILE+VIEWS&color=FF69B4&style=flat-square" />
+    <img src="https://komarev.com/ghpvc/?username=ichxqx&label=PROFILE+VIEWS&color=FF69B4&style=flat-square" alt="Views" />
   </p>
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=5&width=1000&section=header" />
-</p>
+<br/>
 
 ## 🌸 About Me | わたしについて
 
-<table>
+<table align="center" border="0">
   <tr>
     <td width="55%" valign="top">
       <br />
-      💛 <b>Name:</b> Thirawat (Chi) 
+      💛 <b style="color: #FF69B4;">Name:</b> Thirawat (Chi) 
       <br />
-      🎓 <b>2nd-year CS Student</b> @ University of Phayao
+      🎓 <b style="color: #FF69B4;">2nd-year CS Student</b> @ University of Phayao
       <br /><br />
-      💻 <b>Passionate:</b> Web App Developer
+      💻 <b style="color: #FF69B4;">Passionate:</b> Web App Developer
       <br /><br />
-      📍 <b>Current Project:</b> 
-      <blockquote>
-        Building a GIS-based platform for Billboard & Land Plot photography.
+      📍 <b style="color: #FF69B4;">Current Project:</b> 
+      <blockquote style="border-left: 5px solid #FF69B4; background-color: #FFF9E3; padding: 10px;">
+        <i>Building a GIS-based platform for Billboard & Land Plot photography.</i>
       </blockquote>
     </td>
     <td width="45%" align="center">
-      <img src="https://media.giphy.com/media/2l1VJfvboZNCK3hMP2/giphy.gif" width="280" />
+      <img src="https://media.giphy.com/media/2l1VJfvboZNCK3hMP2/giphy.gif" width="280" style="border-radius: 20px; border: 5px solid #FF69B4;"/>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=5&width=1000&section=header" />
-</p>
+<br/>
 
 ## 🛠️ Tech Stack | スキル
 
@@ -47,9 +43,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,py,mysql,mongodb,github,git,vscode&theme=light" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=5&width=1000&section=header" />
-</p>
+<br/>
 
 ## 📊 Performance | 統計
 
@@ -59,12 +53,10 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ichxqx&theme=radical&background=DD272700&fire=FF69B4&ring=FF69B4&sideNums=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ichxqx&theme=radical&background=DD272700&fire=FF69B4&ring=FF69B4&sideNums=ffffff" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=5&width=1000&section=header" />
-</p>
+<br/>
 
 ## 🤝 Connect With Me | 連絡先
 
@@ -87,7 +79,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Z5iEpJ07z5Lw99nTp6/giphy.gif" width="400" />
-  <br />
-  <h3 align="center" style="color: #FF69B4;">✨ Thanks for visiting my profile! ✨</h3>
+  <img src="https://media.giphy.com/media/Z5iEpJ07z5Lw99nTp6/giphy.gif" width="400" style="border: 5px solid #FF69B4; border-radius: 25px;"/>
+  <br><br>
+  <b style="color: #FF69B4; font-size: 20px;">✨ Thanks for visiting my profile! ✨</b>
 </div>
