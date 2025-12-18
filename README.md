@@ -6,11 +6,11 @@
   <img src="https://media.giphy.com/media/bHmWgL6lpAfd3QlnT0/giphy.gif" width="180" style="border: 4px solid #FF69B4; border-radius: 15px;"/>
   <h2 style="color: #FF69B4;">💗 "If you love something, you should say so!" 💗</h2>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=FF69B4&style=flat-square" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=ichxqx&label=PROFILE+VIEWS&color=FF69B4&style=flat-square" alt="Views" />
   </p>
 </div>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pink.png" width="100%"></p>
+<div style="height: 4px; background-color: #FF69B4; border-radius: 2px; margin: 20px 0;"></div>
 
 ## 🌸 About Me | わたしについて
 
@@ -25,7 +25,7 @@
       💻 <b style="color: #FF69B4;">Passionate:</b> Web App Developer
       <br /><br />
       📍 <b style="color: #FF69B4;">Current Project:</b> 
-      <blockquote style="border-left: 5px solid #FF69B4; background-color: #FFF9E3;">
+      <blockquote style="border-left: 5px solid #FF69B4; background-color: #FFF9E3; padding: 10px;">
         <i>Building a GIS-based platform for Billboard & Land Plot photography.</i>
       </blockquote>
     </td>
@@ -35,7 +35,7 @@
   </tr>
 </table>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pink.png" width="100%"></p>
+<div style="height: 4px; background-color: #FF69B4; border-radius: 2px; margin: 20px 0;"></div>
 
 ## 🛠️ Tech Stack | スキル
 
@@ -43,20 +43,20 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,py,mysql,mongodb,github,git,vscode&theme=light" />
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pink.png" width="100%"></p>
+<div style="height: 4px; background-color: #FF69B4; border-radius: 2px; margin: 20px 0;"></div>
 
 ## 📊 Performance | 統計
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&bg_color=FFF9E3&border_color=FF69B4&title_color=FF69B4&text_color=666&icon_color=FF69B4" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&bg_color=FFF9E3&border_color=FF69B4&title_color=FF69B4&text_color=666" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ichxqx&show_icons=true&theme=radical&bg_color=FFF9E3&border_color=FF69B4&title_color=FF69B4&text_color=666&icon_color=FF69B4" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichxqx&layout=compact&theme=radical&bg_color=FFF9E3&border_color=FF69B4&title_color=FF69B4&text_color=666" height="170" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&background=DD272700&fire=FF69B4&ring=FF69B4&sideNums=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ichxqx&theme=radical&background=DD272700&fire=FF69B4&ring=FF69B4&sideNums=ffffff" alt="GitHub Streak" />
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pink.png" width="100%"></p>
+<div style="height: 4px; background-color: #FF69B4; border-radius: 2px; margin: 20px 0;"></div>
 
 ## 🤝 Connect With Me | 連絡先
 
