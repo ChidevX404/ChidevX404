@@ -1,4 +1,4 @@
-<p align="center">
+[<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=CHI%20THIRAWAT&fontSize=80&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student&descAlignY=60&descSize=20" />
 </p>
 
@@ -78,3 +78,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=120&section=footer" />
 </p>
+](https://giphy.com/gifs/marin-mdud-marinkitagawa-Z5iEpJ07z5Lw99nTp6)
