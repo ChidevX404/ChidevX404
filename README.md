@@ -3,14 +3,14 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/bHmWgL6lpAfd3QlnT0/giphy.gif" width="180"/>
-  <h2>✨ "If you love something, you should say so!" ✨</h2>
+  <img src="https://media.giphy.com/media/bHmWgL6lpAfd3QlnT0/giphy.gif" width="180" style="border: 4px solid #FF69B4; border-radius: 15px;"/>
+  <h2 style="color: #FF69B4;">💗 "If you love something, you should say so!" 💗</h2>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=FFB7CE&style=flat-square" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=FF69B4&style=flat-square" alt="Views" />
   </p>
 </div>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pink.png" width="100%"></p>
 
 ## 🌸 About Me | わたしについて
 
@@ -18,46 +18,45 @@
   <tr>
     <td width="55%" valign="top">
       <br />
-      💛 <b>Name:</b> Thirawat (Chi) 
+      💛 <b style="color: #FF69B4;">Name:</b> Thirawat (Chi) 
       <br />
-      🎓 <b>2nd-year CS Student</b> @ University of Phayao
+      🎓 <b style="color: #FF69B4;">2nd-year CS Student</b> @ University of Phayao
       <br /><br />
-      💻 <b>Passionate:</b> Web App Development & Database
+      💻 <b style="color: #FF69B4;">Passionate:</b> Web App Developer
       <br /><br />
-      📍 <b>Current Project:</b> 
-      <blockquote>
+      📍 <b style="color: #FF69B4;">Current Project:</b> 
+      <blockquote style="border-left: 5px solid #FF69B4; background-color: #FFF9E3;">
         <i>Building a GIS-based platform for Billboard & Land Plot photography.</i>
       </blockquote>
-      🎯 <b>Goal:</b> Become a Professional Application Developer / DBA
     </td>
     <td width="45%" align="center">
-      <img src="https://media.giphy.com/media/2l1VJfvboZNCK3hMP2/giphy.gif" width="280" style="border-radius: 20px; border: 4px solid #F3E5AB;"/>
+      <img src="https://media.giphy.com/media/2l1VJfvboZNCK3hMP2/giphy.gif" width="280" style="border-radius: 20px; border: 5px solid #FF69B4;"/>
     </td>
   </tr>
 </table>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pink.png" width="100%"></p>
 
-## 🛠️ Magical Tech Stack | スキล
+## 🛠️ Tech Stack | スキル
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,py,mysql,mongodb,github,git,vscode&theme=light" />
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pink.png" width="100%"></p>
 
 ## 📊 Performance | 統計
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&bg_color=FFF9E3&border_color=FFB7CE&title_color=D4AF37&text_color=666&icon_color=FFB7CE" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&bg_color=FFF9E3&border_color=FFB7CE&title_color=D4AF37&text_color=666" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&bg_color=FFF9E3&border_color=FF69B4&title_color=FF69B4&text_color=666&icon_color=FF69B4" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&bg_color=FFF9E3&border_color=FF69B4&title_color=FF69B4&text_color=666" height="170" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&background=DD272700&fire=FFB7CE&ring=D4AF37&sideNums=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&background=DD272700&fire=FF69B4&ring=FF69B4&sideNums=ffffff" alt="GitHub Streak" />
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pink.png" width="100%"></p>
 
 ## 🤝 Connect With Me | 連絡先
 
@@ -78,4 +77,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=120&section=footer" />
 </p>
-](https://giphy.com/gifs/marin-mdud-marinkitagawa-Z5iEpJ07z5Lw99nTp6)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Z5iEpJ07z5Lw99nTp6/giphy.gif" width="400" style="border: 6px solid #FF69B4; border-radius: 25px;"/>
+  <br><br>
+  <b style="color: #FF69B4; font-size: 20px;">✨ Thanks for visiting my profile! ✨</b>
+</div>
