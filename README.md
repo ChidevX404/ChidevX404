@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=250&section=header&text=CHI%20THIRAWAT&fontSize=80&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=CHI%20THIRAWAT&fontSize=80&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student&descAlignY=60&descSize=20" />
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eXp6Z3R3ZzRyeHByZzRyeHByZzRyeHByZzRyeHByZzR5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ25hbCZjdD1n/KI9oNS4JBvV9C/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/bHmWgL6lpAfd3QlnT0/giphy.gif" width="180"/>
   <h2>✨ "If you love something, you should say so!" ✨</h2>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=FF69B4&style=flat" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=FFB7CE&style=flat-square" alt="Views" />
   </p>
 </div>
 
@@ -18,7 +18,7 @@
   <tr>
     <td width="55%" valign="top">
       <br />
-      ✨ <b>Name:</b> Thirawat (Chi) 
+      💛 <b>Name:</b> Thirawat (Chi) 
       <br />
       🎓 <b>2nd-year CS Student</b> @ University of Phayao
       <br /><br />
@@ -28,17 +28,17 @@
       <blockquote>
         <i>Building a GIS-based platform for Billboard & Land Plot photography.</i>
       </blockquote>
-      🎯 <b>Focusing on:</b> TypeScript, React, and Node.js
+      🎯 <b>Goal:</b> Become a Professional Application Developer / DBA
     </td>
     <td width="45%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5mNWF6YmF5Z3R3ZzRyeHByZzRyeHByZzRyeHByZzRyeHByZzR5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ25hbCZjdD1n/6v9hqY70wZALVhcpx3/giphy.gif" width="280" style="border-radius: 20px; border: 4px solid #FF69B4;"/>
+      <img src="https://media.giphy.com/media/2l1VJfvboZNCK3hMP2/giphy.gif" width="280" style="border-radius: 20px; border: 4px solid #F3E5AB;"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Magical Tech Stack | スキル
+## 🛠️ Magical Tech Stack | スキล
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,py,mysql,mongodb,github,git,vscode&theme=light" />
@@ -49,12 +49,12 @@
 ## 📊 Performance | 統計
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&border_color=FF69B4&title_color=FF69B4&hide_border=false" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&border_color=FF69B4&title_color=FF69B4&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&bg_color=FFF9E3&border_color=FFB7CE&title_color=D4AF37&text_color=666&icon_color=FFB7CE" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&bg_color=FFF9E3&border_color=FFB7CE&title_color=D4AF37&text_color=666" height="170" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&background=DD272700&fire=FF69B4&ring=FF69B4&sideNums=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&background=DD272700&fire=FFB7CE&ring=D4AF37&sideNums=ffffff" alt="GitHub Streak" />
 </p>
 
 ---
@@ -76,9 +76,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnY5Z3R3ZzRyeHByZzRyeHByZzRyeHByZzRyeHByZzR5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ25hbCZjdD1n/6v9hqY70wZALVhcpx3/giphy-downsized.gif" width="100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=120&section=footer" />
 </p>
