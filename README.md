@@ -4,14 +4,14 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/bHmWgL6lpAfd3QlnT0/giphy.gif" width="180" />
-  <h2 align="center">💗 "If you love something, you should say so!" 💗</h2>
+  <h2 align="center" style="color: #FF69B4;">💗 "If you love something, you should say so!" 💗</h2>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ichxqx&label=PROFILE+VIEWS&color=FF69B4&style=flat-square" />
   </p>
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=5&width=1000&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=4&width=1000&section=header" />
 </p>
 
 ## 🌸 About Me | わたしについて
@@ -32,13 +32,13 @@
       </blockquote>
     </td>
     <td width="45%" align="center">
-      <img src="https://media.giphy.com/media/2l1VJfvboZNCK3hMP2/giphy.gif" width="280" />
+      <img src="https://media.giphy.com/media/2l1VJfvboZNCK3hMP2/giphy.gif" width="280" style="border: 4px solid #FF69B4; border-radius: 20px;" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=5&width=1000&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=4&width=1000&section=header" />
 </p>
 
 ## 🛠️ Tech Stack | スキル
@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=5&width=1000&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=4&width=1000&section=header" />
 </p>
 
 ## 📊 Performance | 統計
@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=5&width=1000&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=4&width=1000&section=header" />
 </p>
 
 ## 🤝 Connect With Me | 連絡先
@@ -87,7 +87,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Z5iEpJ07z5Lw99nTp6/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/Z5iEpJ07z5Lw99nTp6/giphy.gif" width="400" style="border: 5px solid #FF69B4; border-radius: 20px;" />
   <br />
   <h3 align="center" style="color: #FF69B4;">✨ Thanks for visiting my profile! ✨</h3>
 </div>
