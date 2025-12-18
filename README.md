@@ -10,7 +10,7 @@
   </p>
 </div>
 
-<div style="height: 4px; background-color: #FF69B4; border-radius: 2px; margin: 20px 0;"></div>
+<table width="100%"><tr><td bgcolor="#FF69B4" style="padding: 2px;"></td></tr></table>
 
 ## 🌸 About Me | わたしについて
 
@@ -35,7 +35,7 @@
   </tr>
 </table>
 
-<div style="height: 4px; background-color: #FF69B4; border-radius: 2px; margin: 20px 0;"></div>
+<table width="100%"><tr><td bgcolor="#FF69B4" style="padding: 2px;"></td></tr></table>
 
 ## 🛠️ Tech Stack | スキル
 
@@ -43,7 +43,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,py,mysql,mongodb,github,git,vscode&theme=light" />
 </p>
 
-<div style="height: 4px; background-color: #FF69B4; border-radius: 2px; margin: 20px 0;"></div>
+<table width="100%"><tr><td bgcolor="#FF69B4" style="padding: 2px;"></td></tr></table>
 
 ## 📊 Performance | 統計
 
@@ -56,7 +56,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ichxqx&theme=radical&background=DD272700&fire=FF69B4&ring=FF69B4&sideNums=ffffff" alt="GitHub Streak" />
 </p>
 
-<div style="height: 4px; background-color: #FF69B4; border-radius: 2px; margin: 20px 0;"></div>
+<table width="100%"><tr><td bgcolor="#FF69B4" style="padding: 2px;"></td></tr></table>
 
 ## 🤝 Connect With Me | 連絡先
 
