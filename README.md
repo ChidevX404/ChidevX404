@@ -1,62 +1,84 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD9A0,50:FFB6C9,100:FF6F9C&height=240&section=header&text=Chi%20Thirawat&fontSize=68&fontColor=4A2E3A&fontAlignY=38&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14122B,45:6E3FA3,100:FF6FB5&height=240&section=header&text=Chi%20Thirawat&fontSize=58&fontColor=ECE8FF&fontAlignY=35&desc=Computer%20Science%20Student%20%40%20University%20of%20Phayao&descAlignY=58&descSize=16&animation=twinkling" />
 </p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/bHmWgL6lpAfd3QlnT0/giphy.gif" width="170" />
   <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&pause=1500&color=FF6F9C&center=true&vCenter=true&width=650&height=50&repeat=true&lines=Hi+there%2C+I'm+Chi+%F0%9F%91%8B;2nd-year+CS+Student+%40+University+of+Phayao+%F0%9F%8E%93;Web+Developer+%E2%80%A2+GIS+Enthusiast+%F0%9F%8C%90;If+you+love+something%2C+you+should+say+so!+%F0%9F%92%97" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=4DE8E8&center=true&vCenter=true&width=650&height=50&repeat=true&lines=%24+whoami;Chi+Thirawat+%F0%9F%91%8B;%24+cat+passion.txt;Web+Developer+%E2%80%A2+GIS+Enthusiast+%F0%9F%8C%90;%24+echo+%24MOTTO;If+you+love+something%2C+you+should+say+so!+%F0%9F%92%97" />
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=ichxqx&label=PROFILE+VIEWS&color=FF6F9C&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Open_to_Collab-FFB6C9?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ichxqx&label=PROFILE+VIEWS&color=FF6FB5&style=for-the-badge&labelColor=14122B" />
+  <img src="https://img.shields.io/badge/STATUS-Open_to_Collab-4DE8E8?style=for-the-badge&labelColor=14122B" />
 </div>
 
 <br/>
 
 ## 🌸 About Me ・ わたしについて
 
-<table>
-<tr>
-<td width="58%" valign="top">
+Hey, I'm **Chi** — a 2nd-year Computer Science student at **University of Phayao**, Thailand 🇹🇭, who likes turning "wouldn't it be cool if..." into something that actually runs.
 
-**Name:** Thirawat — everyone calls me **Chi**.
-**Currently:** 2nd-year Computer Science student @ **University of Phayao** 🎓
-**Passion:** Web App Development 💻
+> 🗺️ **Right now I'm building:** a GIS-based platform that connects billboard & land-plot photography with interactive maps — turning scattered location data into something people can actually explore.
 
-📍 **What I'm building right now:**
-> 🗺️ A GIS-based platform that connects billboard & land-plot photography with interactive maps — turning scattered location data into something people can actually explore.
+```text
+chi@university-of-phayao
+-------------------------
+OS: Human.exe (Thai Build) 🇹🇭
+Host: University of Phayao
+Kernel: 2nd-Year Computer Science
+Shell: javascript / python
+Editor: VS Code
+Uptime: still debugging life
+Theme: Sakura-Neon [pink / cyan]
+CPU: caffeine-powered
+Memory: 60% anime, 40% code
+Status: compiling dreams...
+```
 
-I like learning by shipping — pick a real problem, pick a stack, see it through.
+```bash
+$ git log --oneline --graph --decorate chi-thirawat
 
-</td>
-<td width="42%" align="center">
-
-<img src="https://media.giphy.com/media/2l1VJfvboZNCK3hMP2/giphy.gif" width="260" />
-
-</td>
-</tr>
-</table>
+* 2024  Started Computer Science @ University of Phayao
+* 2025  Learned React, fell in love with frontend
+* 2025  Started exploring GIS & interactive maps
+* 2026  Building: GIS platform for billboard & land-plot photography
+* HEAD  Still committing... 💗
+```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_University-Phayao-FF6F9C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💻_Focus-Web_%26_GIS-FFB6C9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🇹🇭_Based_in-Thailand-FFD9A0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓_University-Phayao-FF6FB5?style=for-the-badge&labelColor=14122B" />
+  <img src="https://img.shields.io/badge/💻_Focus-Web_%26_GIS-4DE8E8?style=for-the-badge&labelColor=14122B" />
+  <img src="https://img.shields.io/badge/📍_Based_in-Thailand-8C7AE6?style=for-the-badge&labelColor=14122B" />
 </p>
 
 <br/>
 
 ## 🛠️ Tech Stack ・ スキル
 
+```json
+{
+  "developer": "chi-thirawat",
+  "role": "2nd-year CS Student",
+  "stack": {
+    "frontend": ["React", "Next.js", "TypeScript"],
+    "backend": ["Node.js", "Express"],
+    "database": ["MySQL", "MongoDB"],
+    "gis": ["Leaflet.js", "QGIS", "PostGIS", "Google Maps API"]
+  },
+  "currentlyBuilding": "GIS platform for billboard & land-plot photography",
+  "motto": "If you love something, you should say so! 💗"
+}
+```
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,py,mysql,mongodb,figma,git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,py,mysql,mongodb,figma,git,github,vscode&theme=dark" />
 </p>
 
 <p align="center"><b>🗺️ GIS & Mapping Toolbox</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Leaflet.js-FFB6C9?style=for-the-badge&logo=leaflet&logoColor=4A2E3A" />
-  <img src="https://img.shields.io/badge/QGIS-FFB6C9?style=for-the-badge&logo=qgis&logoColor=4A2E3A" />
-  <img src="https://img.shields.io/badge/Google_Maps_API-FFB6C9?style=for-the-badge&logo=googlemaps&logoColor=4A2E3A" />
-  <img src="https://img.shields.io/badge/PostgreSQL_%2F_PostGIS-FFB6C9?style=for-the-badge&logo=postgresql&logoColor=4A2E3A" />
+  <img src="https://img.shields.io/badge/Leaflet.js-FF6FB5?style=for-the-badge&logo=leaflet&logoColor=white&labelColor=14122B" />
+  <img src="https://img.shields.io/badge/QGIS-4DE8E8?style=for-the-badge&logo=qgis&logoColor=white&labelColor=14122B" />
+  <img src="https://img.shields.io/badge/Google_Maps_API-8C7AE6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=14122B" />
+  <img src="https://img.shields.io/badge/PostgreSQL_%2F_PostGIS-FF6FB5?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=14122B" />
 </p>
 
 <br/>
@@ -64,27 +86,21 @@ I like learning by shipping — pick a real problem, pick a stack, see it throug
 ## 📊 GitHub Stats ・ 統計
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ichxqx&show_icons=true&theme=radical&bg_color=FFF8F0&border_color=FFB6C9&title_color=FF5C8A&text_color=4A2E3A&icon_color=FF8FB1&border_radius=14" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichxqx&layout=compact&theme=radical&bg_color=FFF8F0&border_color=FFB6C9&title_color=FF5C8A&text_color=4A2E3A&border_radius=14" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ichxqx&show_icons=true&theme=dark&bg_color=14122B&border_color=8C7AE6&title_color=FF6FB5&text_color=ECE8FF&icon_color=4DE8E8&border_radius=14" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichxqx&layout=compact&theme=dark&bg_color=14122B&border_color=8C7AE6&title_color=FF6FB5&text_color=ECE8FF&border_radius=14" height="170" />
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ichxqx&theme=radical&background=FFF8F0&border=FFB6C9&ring=FF6F9C&fire=FF6F9C&currStreakNum=4A2E3A&sideNums=4A2E3A&currStreakLabel=FF5C8A&sideLabels=4A2E3A&dates=8C6B79&border_radius=14" />
-</p>
-
-<details>
-<summary align="center">📈 Click to see trophies & activity graph</summary>
-<br/>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ichxqx&theme=flat&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
+  <img src="https://streak-stats.demolab.com/?user=ichxqx&theme=dark&background=14122B&border=8C7AE6&ring=FF6FB5&fire=FF6FB5&currStreakNum=ECE8FF&sideNums=ECE8FF&currStreakLabel=4DE8E8&sideLabels=ECE8FF&dates=8C7AE6&border_radius=14" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ichxqx&bg_color=FFF8F0&color=FF5C8A&line=FF6F9C&point=4A2E3A&area=true&area_color=FFD9A0&title_color=FF5C8A&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ichxqx&theme=onedark&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
 </p>
 
-</details>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ichxqx&bg_color=14122B&color=4DE8E8&line=FF6FB5&point=ECE8FF&area=true&area_color=8C7AE6&title_color=FF6FB5&hide_border=true" />
+</p>
 
 <br/>
 
@@ -104,8 +120,13 @@ I like learning by shipping — pick a real problem, pick a stack, see it throug
   </a>
 </p>
 
+```bash
+$ exit
+Process finished with exit code 💗
+```
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6F9C,50:FFB6C9,100:FFD9A0&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FB5,55:6E3FA3,100:14122B&height=150&section=footer" />
 </p>
 
 <div align="center">
