@@ -20,11 +20,11 @@ Hey, I'm **Chi** — a 2nd-year Computer Science student at **University of Phay
 > 🗺️ **Right now I'm building:** a GIS-based platform that connects billboard & land-plot photography with interactive maps — turning scattered location data into something people can actually explore.
 
 ```text
-chi@university-of-phayao
+6702784@up.ac.th
 -------------------------
 OS: Human.exe (Thai Build) 🇹🇭
 Host: University of Phayao
-Kernel: 2nd-Year Computer Science
+Kernel: 3nd-Year Computer Science
 Shell: javascript / python
 Editor: VS Code
 Uptime: still debugging life
@@ -57,7 +57,7 @@ $ git log --oneline --graph --decorate chi-thirawat
 ```json
 {
   "developer": "chi-thirawat",
-  "role": "2nd-year CS Student",
+  "role": "3nd-year CS Student",
   "stack": {
     "frontend": ["React", "Next.js", "TypeScript"],
     "backend": ["Node.js", "Express"],
